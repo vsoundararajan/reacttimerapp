@@ -13,7 +13,7 @@ const Navigation = () => {
             </IndexLink>
           </li>
           <li>
-            <IndexLink to="/" activeClassName="active-link">
+            <IndexLink to="/countdown" activeClassName="active-link">
               Countdown
             </IndexLink>
           </li>
